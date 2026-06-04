@@ -1,3 +1,13 @@
+﻿<!-- ARTEMIS-IGNIS-BRANDING:START -->
+<p align="center">
+  <img src="docs/assets/artemis-ignis-banner.png" alt="Artemis-Ignis banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="docs/assets/artemis-ignis-emblem.png" alt="Artemis-Ignis emblem" width="320" />
+</p>
+<!-- ARTEMIS-IGNIS-BRANDING:END -->
+
 <p align="center">
     <a href="https://www.memanto.ai/">
     <img alt="MEMANTO Logo" src="https://github.com/moorcheh-ai/memanto/raw/main/assets/memanto-dark.svg" width="500">
@@ -242,3 +252,4 @@ Have questions or feedback? We're here to help:
 ---
 
 **MIT License**
+
